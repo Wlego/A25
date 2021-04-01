@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Session activeView="1">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="25" xOffset="0" scrollWidth="819" startPos="2419" endPos="2419" selMode="0" lang="JavaScript" encoding="-1" filename="F:\WebServers\denwer-master\home\localhost\www\A25\js\script.js" backupFilePath="" originalFileLastModifTimestamp="456276480" originalFileLastModifTimestampHigh="30875620" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1143586816" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="157" xOffset="0" scrollWidth="5145" startPos="11953" endPos="11953" selMode="0" lang="HTML" encoding="-1" filename="F:\WebServers\denwer-master\home\localhost\www\A25\index.php" backupFilePath="" originalFileLastModifTimestamp="-1038821632" originalFileLastModifTimestampHigh="30875616" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="343" startPos="130" endPos="130" selMode="0" lang="CSS" encoding="-1" filename="F:\WebServers\denwer-master\home\localhost\www\A25\css\style.css" backupFilePath="" originalFileLastModifTimestamp="-771811840" originalFileLastModifTimestampHigh="30876289" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1142554624" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </subView>
+    </Session>
+</NotepadPlus>

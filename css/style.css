@@ -1,0 +1,177 @@
+body{
+    font-style:italic;
+	font-family: 'Times New Roman';
+}
+
+h3 {
+	font-family: 'Times New Roman';.
+	font-weight: bold;
+}
+
+/* header */
+
+header {	
+    background-color: black; 
+}
+
+header .navbar-header .navbar-toggle{
+    border: white;
+	margin-top:25px;
+	margin-right:25px;
+}
+
+header .navbar-header .navbar-toggle .icon-bar{
+    background-color: white;
+}
+
+.btn-primary{
+    background-color: #ffffff;
+    color: black;
+    border-color: gray;
+    width: 100%;
+}
+
+.two h3{
+	margin-top:0;
+}
+
+/* logo */
+
+@media (max-width: 1024px){
+header img{		
+	width:150px;
+	height:50px;
+	position:absolute;
+ }
+}
+
+@media (min-width: 1024px){
+header img{
+	margin-left:200px;
+	width:150px;
+	height:50px;
+	position:absolute;
+ }
+}
+
+@media (min-width: 1124px){
+header img{	
+	margin-left:250px;	
+	width:150px;
+	height:50px;
+	position:absolute;
+ }
+}
+
+@media (min-width: 1224px){
+header img{	
+	margin-left:300px;	
+	width:150px;
+	height:50px;
+	position:absolute;
+ }
+}
+
+@media (min-width: 1424px){
+header img{	
+	margin-left:350px;	
+	width:150px;
+	height:50px;
+	position:absolute;
+ }
+}
+
+/* menu */
+
+.menu a{
+    color: #ffffff;
+}
+
+@media (max-width: 1024px){
+header .menu{ 
+	margin-right:50px;
+	margin-top:20px;
+	padding-bottom: 10px;
+	padding-right: 30px;	
+ }
+}
+
+@media (min-width: 1124px){
+header .menu{
+	margin-right:30px;
+	margin-top:20px;
+	padding-bottom: 10px;
+	padding-right: 30px;	
+ }
+}
+
+@media (min-width: 1124px){
+header .menu{
+	margin-right:50px;
+	margin-top:20px;
+	padding-bottom: 10px;
+	padding-right: 30px;	
+ }
+}
+
+@media (min-width: 1424px){
+header .menu{
+	margin-right:150px;
+	margin-top:20px;
+	padding-bottom: 10px;
+	padding-right: 30px;	
+ }
+}
+
+@media (min-width: 1624px){
+header .menu{
+	margin-right:250px;
+	margin-top:20px;
+	padding-bottom: 10px;
+	padding-right: 30px;	
+ }
+}
+ 
+
+/* слайдер */
+
+.carousel-control.left{
+	background:transparent;
+}
+
+.carousel-control.right{
+	background:transparent;
+}
+
+.carousel-inner .col-md-10 h3 {
+ width:140px;
+ position: absolute;
+ margin-top: 115px; 
+}
+ 
+.carousel-inner .col-md-10 p {		
+width:140px;
+position: absolute;
+margin-top: 215px;    
+} 
+
+/* footer */
+ 
+footer{
+    background-color: black;    
+     color:#ffffff;
+     }
+ 
+#scrollUp {
+  font-weight: bold;
+  right: 40px;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  bottom: 40px;
+  color: #505050;
+  text-decoration: none;
+  /* transform: rotate(-90deg); */
+  background: url(../image/top.png) no-repeat;
+}
+
